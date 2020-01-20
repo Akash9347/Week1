@@ -17,6 +17,7 @@ public class Week2 {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Bye!");
+        System.out.println("haha");
         // TODO code application logic here
     }
     
