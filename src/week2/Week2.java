@@ -11,7 +11,7 @@ package week2;
  */
 public class Week2 {
 
-    /**date
+    /**date Haha
      * @param args the command line arguments
      */
     public static void main(String[] args) {
